@@ -44,29 +44,30 @@ namespace AgentApplication.AddedClasses
         #region map
         public void NavigateLocations(string interest, string origin)
         {
+
             loadState = LOADSTATE.LocationUnfinished;
             googleHtmlString = "";
             interestPointer = 0;
-
+            //webBrowser1.Stop();
             webBrowser1.Navigate("https://www.google.com/maps/search/?api=1&query="+ interest + "+at+"+ origin);
             webBrowser1.Refresh();
         }
         public void NavigateDestination(string destination, string origin, string time)// string travelstr, TravelItem travelItem)
         {
+            //webBrowser1.Stop();
+            //webBrowser2.Stop();
+
             loadState = LOADSTATE.DestinationUnfinished;
             webBrowser1.Navigate("https://rrp.vasttrafik.se/#!P|TP!S|" + origin + "!Z|" + destination + "!date|!time|" + time + "!timeSel|depart!start|1");
-            webBrowser1.Refresh();
             webBrowser2.Navigate("https://rrp.vasttrafik.se/#!P|TP!S|" + origin + "!Z|" + destination + "!date|!time|" + time + "!timeSel|depart!start|1");
             webBrowser2.Refresh();
+            webBrowser1.Refresh();
             interestPointer = 0;
 
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            string test = ItemHandler.TRAVEL_MARK + ItemHandler.SEP + ItemHandler.ORIGIN + "chalmers" + ItemHandler.SEP + ItemHandler.TIME + "" + ItemHandler.SEP + ItemHandler.DESTINATION + "lindholmen";
-            //NavigateDestination(test);
-            Console.WriteLine("testing striing : " + test);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -93,8 +94,6 @@ namespace AgentApplication.AddedClasses
                     {
                         case LOADSTATE.DestinationUnfinished:
                         case LOADSTATE.DestinationComplete:
-                             webBrowser1.Location = new Point(0, standardBrowserHeightOffset);
-                            leftCenterContainer.Panel1Collapsed = false;
                             //västtrafik destination//västtrafik destination
                             if (webBrowser1.Url.AbsoluteUri.StartsWith("https://rrp"))
                             {
@@ -113,6 +112,9 @@ namespace AgentApplication.AddedClasses
                                         }
                                     }
                                 }
+
+                                webBrowser1.Location = new Point(0, standardBrowserHeightOffset);
+                                leftCenterContainer.Panel1Collapsed = false;
                             }
                             break;
                         case LOADSTATE.LocationComplete:
@@ -137,9 +139,10 @@ namespace AgentApplication.AddedClasses
                                     return true;
                                 }
 
+                                webBrowser1.Location = new Point(0, 0);
+                                leftCenterContainer.Panel1Collapsed = true;
+
                             }
-                            webBrowser1.Location = new Point(0, 0);
-                            leftCenterContainer.Panel1Collapsed = true;
                             break;
                     }
 

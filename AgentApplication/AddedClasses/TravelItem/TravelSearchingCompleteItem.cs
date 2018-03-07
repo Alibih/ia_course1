@@ -47,8 +47,9 @@ namespace AgentApplication.AddedClasses
             bool hasExpired = false;
 
 
-            string nextID = OutputAction.TargetID;
+            ownerAgent.SendExpression("squint"); //tells the agent to really think
 
+            string nextID = OutputAction.TargetID;
             while (!(mapControl.LoadState == MapControl.LOADSTATE.DestinationComplete||mapControl.LoadState == MapControl.LOADSTATE.LocationComplete)  && !hasExpired )
             {
                 totalWaitingTime += step;
@@ -65,7 +66,7 @@ namespace AgentApplication.AddedClasses
 
                 ownerAgent.SendSpeechOutput("I found your trip, the transport departs from " + mapControl.Departure + " at " + mapControl.DepartureTimeListBox.Items[0]+ " o' clock");
 
-
+                ownerAgent.SendExpression("nodhead");
                if (origSought != null && destSought != null)
                 {
                     string orig = origSought.GetContent().ToString();
@@ -80,6 +81,7 @@ namespace AgentApplication.AddedClasses
             }
             else if(((mapControl.LoadState == MapControl.LOADSTATE.LocationComplete)))
             {
+                ownerAgent.SendExpression("nodhead");
                 if (mapControl.LocationsOfInterest.Count > 0)
                 {
                     ownerAgent.SendSpeechOutput("I found " + mapControl.AddressesOfInterest.Count + " locations nearby, " + mapControl.LocationsOfInterest[0] + " is closest. Do you want to go?");
@@ -94,6 +96,8 @@ namespace AgentApplication.AddedClasses
             }
             else
             {
+
+                ownerAgent.SendExpression("shakehead");
                 ownerAgent.SendSpeechOutput("Uh oh. Something went wrong.");
             }
             AsynchronousDialogueItemEventArgs e = new AsynchronousDialogueItemEventArgs(originalContext, outputAction.TargetContext, nextID);
