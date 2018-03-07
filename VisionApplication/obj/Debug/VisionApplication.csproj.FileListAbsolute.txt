@@ -1,0 +1,91 @@
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\VisionApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.VisionApplicationMainForm.resources
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\VisionApplication.exe
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.VisionApplicationMainForm.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.exe
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\VisionApplication\obj\Debug\VisionApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\obj\Debug\VisionApplication.VisionApplicationMainForm.resources
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\obj\Debug\VisionApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\VisionApplication\obj\Debug\VisionApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.VisionApplicationMainForm.resources
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.exe
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csprojResolveAssemblyReference.cache
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.VisionApplicationMainForm.resources
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.Cache
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.CoreCompileInputs.cache
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.exe
+F:\Programming\Projects\IPASrc\AgentSolution\VisionApplication\obj\Debug\VisionApplication.pdb

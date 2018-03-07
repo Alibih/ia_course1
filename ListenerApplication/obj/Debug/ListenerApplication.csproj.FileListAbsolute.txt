@@ -1,0 +1,106 @@
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\ListenerApplication.exe.config
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\ListenerApplication.exe
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\ListenerApplication.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.ListenerMainForm.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.exe
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\SpeechRecognitionLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\SpeechRecognitionLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\ListenerApplication.exe.config
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\ListenerApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\ListenerApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\AudioLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\SpeechRecognitionLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\AudioLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\SpeechRecognitionLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.ListenerMainForm.resources
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.Properties.Resources.resources
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\ListenerApplication\obj\Debug\ListenerApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\ListenerApplication.exe.config
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\ListenerApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\ListenerApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\AudioLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\SpeechRecognitionLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\AudioLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\SpeechRecognitionLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.ListenerMainForm.resources
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.Properties.Resources.resources
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\ListenerApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\ListenerApplication.exe
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\ListenerApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\SpeechRecognitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\SpeechRecognitionLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.ListenerMainForm.resources
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.exe
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\ListenerApplication.exe.config
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\ListenerApplication.exe
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\ListenerApplication.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\AudioLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\AuxiliaryLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\CommunicationLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\CustomUserControlsLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\SpeechRecognitionLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\MathematicsLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\AudioLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\AuxiliaryLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\CommunicationLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\SpeechRecognitionLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\CustomUserControlsLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\bin\Debug\MathematicsLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.csprojResolveAssemblyReference.cache
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.ListenerMainForm.resources
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.Properties.Resources.resources
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.csproj.GenerateResource.Cache
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.csproj.CoreCompileInputs.cache
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.exe
+F:\Programming\Projects\IPASrc\AgentSolution\ListenerApplication\obj\Debug\ListenerApplication.pdb

@@ -1,0 +1,76 @@
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\TestApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\TestApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.MainForm.resources
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.Properties.Resources.resources
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\TestApplication.exe
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\TestApplication.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.MainForm.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.exe
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\TestApplication\obj\Debug\TestApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\bin\Debug\TestApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\bin\Debug\TestApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\obj\Debug\TestApplication.MainForm.resources
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\obj\Debug\TestApplication.Properties.Resources.resources
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\obj\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\obj\Debug\TestApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\TestApplication\obj\Debug\TestApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\bin\Debug\TestApplication.exe
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\bin\Debug\TestApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.MainForm.resources
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.exe
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\bin\Debug\TestApplication.exe.config
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\bin\Debug\TestApplication.exe
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\bin\Debug\TestApplication.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\bin\Debug\AgentLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\bin\Debug\CommunicationLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\bin\Debug\CustomUserControlsLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\bin\Debug\AgentLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\bin\Debug\CommunicationLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\bin\Debug\CustomUserControlsLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.MainForm.resources
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.Properties.Resources.resources
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.csproj.GenerateResource.Cache
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.exe
+F:\Programming\Projects\IPASrc\AgentSolution\TestApplication\obj\Debug\TestApplication.pdb

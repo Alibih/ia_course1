@@ -1,0 +1,107 @@
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.AgentMainForm.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.AgentMainForm.resources
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\ObjectSerializer.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\ObjectSerializer.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\ObjectSerializer.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\AgentApplication\bin\Debug\ObjectSerializer.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\ObjectSerializer.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\bin\Debug\ObjectSerializer.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\obj\Debug\AgentApplication.AgentMainForm.resources
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\ObjectSerializer.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\bin\Debug\ObjectSerializer.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.AgentMainForm.resources
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.Cache
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\ObjectSerializer.dll
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\ObjectSerializer.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csprojResolveAssemblyReference.cache
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.AgentMainForm.resources
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.Cache
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.CoreCompileInputs.cache
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.exe
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\AgentApplication\obj\Debug\AgentApplication.AddedClasses.MapControl.resources

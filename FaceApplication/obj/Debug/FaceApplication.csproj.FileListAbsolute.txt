@@ -1,0 +1,108 @@
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\FaceApplication.exe.config
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\FaceApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\FaceApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\OpenTK.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.FaceApplicationMainForm.resources
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.Properties.Resources.resources
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\ObjectSerializer.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\ObjectSerializer.pdb
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\FaceApplication.exe.config
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\FaceApplication.exe
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\FaceApplication.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\ObjectSerializer.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\OpenTK.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\ObjectSerializer.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.FaceApplicationMainForm.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.exe
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\DialogueDemonstrationSolution\FaceApplication\obj\Debug\FaceApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\FaceApplication.exe.config
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\FaceApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\FaceApplication.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\ObjectSerializer.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\OpenTK.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\ObjectSerializer.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\obj\Debug\FaceApplication.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\obj\Debug\FaceApplication.FaceApplicationMainForm.resources
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\obj\Debug\FaceApplication.Properties.Resources.resources
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\obj\Debug\FaceApplication.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\obj\Debug\FaceApplication.exe
+C:\Data\Research\Autonomous agents\SrcNew\AgentSolution\FaceApplication\obj\Debug\FaceApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\FaceApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\FaceApplication.exe
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\FaceApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\ObjectSerializer.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\OpenTK.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\ObjectSerializer.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.FaceApplicationMainForm.resources
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.exe
+C:\Data\Teaching\Intelligent agents, 2018\Src\Release\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\FaceApplication.exe.config
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\FaceApplication.exe
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\FaceApplication.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\CommunicationLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\CustomUserControlsLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\ObjectSerializer.dll
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\OpenTK.dll
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\OpenTK.GLControl.dll
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\MathematicsLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\CommunicationLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\ObjectSerializer.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\CustomUserControlsLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\MathematicsLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.csprojResolveAssemblyReference.cache
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.Properties.Resources.resources
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.csproj.GenerateResource.Cache
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.csproj.CoreCompileInputs.cache
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.exe
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\obj\Debug\FaceApplication.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\AgentLibrary.dll
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\bin\Debug\AgentLibrary.pdb
+F:\Programming\Projects\IPASrc\AgentSolution\FaceApplication\obj\Debug\AgentApplication.FaceApplicationMainForm.resources
